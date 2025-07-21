@@ -1,6 +1,12 @@
 # 🏕️ The Wild Oasis
 
 A modern cabin reservation web app built with the latest features of **Next.js App Router**. Easily browse and reserve cabins, manage your bookings, and authenticate securely with your Google account.
+---
+
+## 📦 Live Demo
+
+✨ Experience The Wild Oasis in action: [the-wild-oasis-website-pkjv.vercel.app](https://the-wild-oasis-website-pkjv.vercel.app/)  
+Explore the app’s features instantly—no setup required!
 
 ---
 
@@ -31,9 +37,6 @@ A modern cabin reservation web app built with the latest features of **Next.js A
 - **State Management**: React **Context API**
 - **Server Functions**: **Next.js Server Actions**
 
----
 
-## 📦 Live Demo
-https://the-wild-oasis-website-pkjv.vercel.app/
 
 
