@@ -1,6 +1,7 @@
 # 🏕️ The Wild Oasis
 
 A modern cabin reservation web app built with the latest features of **Next.js App Router**. Easily browse and reserve cabins, manage your bookings, and authenticate securely with your Google account.
+A luxurious cabin hotel website built with Next.js, featuring modern design, authentication, and reservation management. Located in the heart of the Italian Dolomites, The Wild Oasis offers guests a seamless experience from browsing cabins to booking their stay.
 
 ---
 
@@ -13,27 +14,26 @@ Explore the app’s features instantly—no setup required!
 
 ## 🌟 Features
 
-- 🛏️ **Cabin Listings**: Browse detailed descriptions of cabins available for reservation.
-- 🔐 **Authentication**: Sign in with your **Google account** using `NextAuth`.
-- 📅 **Booking System**:
-  - Reserve a cabin with **start date**, **end date**, **number of guests**, and **observations**.
-  - View, **edit**, or **delete** your reservations.
-- 👤 **Profile Management**: Update your user profile after logging in.
-- 🔒 **Access Control**:
-  - Non-authenticated users can only view cabins.
-  - Authenticated users can make and manage reservations.
-- ⚙️ **Server Actions** for secure server-side logic.
-- 💬 **Context API** for smooth global state management.
-- 🌀 **Loading & Error Handling** built-in for a better UX.
-- 🎨 **Responsive UI** styled with **Tailwind CSS**.
+## Features
+
+- Browse luxury cabins with detailed descriptions and images
+- Filter cabins by guest capacity
+- Reserve cabins with date selection and guest details
+- Google authentication for guest area access
+- Manage and edit reservations
+- Update guest profile with nationality and ID
+- Family-run business history showcased
+- Elegant UI with Tailwind CSS
 
 ---
 
 ## 🚀 Tech Stack
 
-- **Framework**: [Next.js (App Router)]
-- **Styling**: [Tailwind CSS]
-- **Database**: [Supabase]
-- **Authentication**: [NextAuth.js]
-- **State Management**: React **Context API**
-- **Server Functions**: **Next.js Server Actions**
+- Next.js 15
+- React 19
+- Tailwind CSS 4
+- Supabase (database & storage)
+- NextAuth.js (authentication)
+- date-fns (date utilities)
+- Heroicons (icons)
+
