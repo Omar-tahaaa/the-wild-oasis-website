@@ -1,6 +1,7 @@
 # 🏕️ The Wild Oasis
 
 A modern cabin reservation web app built with the latest features of **Next.js App Router**. Easily browse and reserve cabins, manage your bookings, and authenticate securely with your Google account.
+
 ---
 
 ## 📦 Live Demo
