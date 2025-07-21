@@ -14,14 +14,11 @@ Explore the app’s features instantly—no setup required!
 
 ## 🌟 Features
 
-- Browse luxury cabins with detailed descriptions and images
-- Filter cabins by guest capacity
-- Reserve cabins with date selection and guest details
-- Google authentication for guest area access
-- Manage and edit reservations
-- Update guest profile with nationality and ID
-- Family-run business history showcased
-- Elegant UI with Tailwind CSS
+- 🌿 Built with Next.js App Router, Tailwind CSS, Supabase, and NextAuth.js  
+- 📅 Book cabins with flexible dates, guest selection, and custom notes  
+- 🔐 Secure, protected routes with dynamic user experience based on authentication  
+- 🌀 Fully responsive, production-ready UI featuring intuitive loading and error states  
+- 🚀 Optimized for performance and accessibility
 
 ---
 
