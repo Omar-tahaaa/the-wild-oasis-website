@@ -14,8 +14,6 @@ Explore the app’s features instantly—no setup required!
 
 ## 🌟 Features
 
-## Features
-
 - Browse luxury cabins with detailed descriptions and images
 - Filter cabins by guest capacity
 - Reserve cabins with date selection and guest details
