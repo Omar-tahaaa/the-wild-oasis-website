@@ -36,7 +36,3 @@ Explore the app’s features instantly—no setup required!
 - **Authentication**: [NextAuth.js]
 - **State Management**: React **Context API**
 - **Server Functions**: **Next.js Server Actions**
-
-
-
-
