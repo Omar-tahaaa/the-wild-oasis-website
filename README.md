@@ -14,11 +14,15 @@ Explore the app’s features instantly—no setup required!
 
 ## 🌟 Features
 
-- 🌿 Built with Next.js App Router, Tailwind CSS, Supabase, and NextAuth.js  
-- 📅 Book cabins with flexible dates, guest selection, and custom notes  
-- 🔐 Secure, protected routes with dynamic user experience based on authentication  
-- 🌀 Fully responsive, production-ready UI featuring intuitive loading and error states  
-- 🚀 Optimized for performance and accessibility
+- Implemented modern cabin reservation system using Next.js App Router, allowing users to book cabins with flexible dates, guest selection, and custom notes with real-time availability management
+- Architected secure authentication system using NextAuth.js with Google OAuth integration, enabling seamless user sign-in and session management while protecting sensitive user data
+- Engineered production-ready user interface using Tailwind CSS 4 with intuitive loading states, error boundaries, and accessibility features optimized for all devices
+- Built protected routes with dynamic user experience logic that adapts content and functionality based on authentication status, ensuring authorized access to booking and profile management features
+- Developed complete reservation management system allowing users to view, modify, and cancel bookings with real-time updates and confirmation notifications
+- Integrated Supabase as backend solution for reliable database management, user data storage, and file storage for cabin images and related assets
+- Implemented date utility functions using date-fns library for flexible date range selection, booking validation, and availability calendar calculations
+- Optimized application performance through Next.js 15 features including server-side rendering, static generation, and image optimization ensuring fast load times and improved SEO
+- Utilized Heroicons for consistent, scalable icon system enhancing user interface visual hierarchy and usability
 
 ---
 
