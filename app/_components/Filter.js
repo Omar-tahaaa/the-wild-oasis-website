@@ -11,7 +11,9 @@ function Filter() {
 
   const handleFilter = (filter) => {
     const params = new URLSearchParams(pathname);
+    //it's only change url but didn't go to the new after change
     params.set("capacity", filter);
+    //responsible to got to new url
     router.replace(`${pathname}?capacity=${params.get("capacity")}`, {
       scroll: false,
     });
